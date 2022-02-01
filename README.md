@@ -3,7 +3,7 @@
 <br>
 - 👀 I'm intereted in coding and learning new things.<br>
 - 📚 I'm currently learning about how to use github.<br>
-- 📩 Reach me at akashsingh.x09@gmail.com <br>
+- 📩 Reach me at <a href="mailto:akashsingh.x09@gmail.com">akashsingh.x09@gmail.com</a><br>
 
 <h4>Connect with me:</h4>
 <a href="https://twitter.com/AkashSi96138077">
