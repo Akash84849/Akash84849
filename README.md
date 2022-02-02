@@ -7,7 +7,7 @@
 
 <h4>Connect with me:</h4>
 <a href="https://twitter.com/AkashSi96138077" target="_blank">
-<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="50px"/>
+<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="50px" target="_blank">
 </a>
 <a href="https://www.instagram.com/akash_s_09/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png"  width="50px" />
