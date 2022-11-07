@@ -25,6 +25,6 @@
 </a>
 <a href="https://www.w3schools.com/js/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="50px">
-</a>
+</a href="https://www.w3schools.com/c/" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="50px">
 </a>
