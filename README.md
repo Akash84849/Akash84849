@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Akash</h1>
-<h3> A young computer engineering student 🤓</h3>
+<h3> I am a 2nd year engineering student at Smt. Indira Gandhi College of Engineering, pursuing Internet of Things and Cybersecurity including Block chain technology 🤓</h3>
 <br>
 - 👀 I'm intereted in coding and learning new things.<br>
 - 📚 I'm currently learning about how to use github.<br>
