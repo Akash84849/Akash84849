@@ -2,7 +2,6 @@
 <h3> I am an engineering student pursuing a Bachelor of Engineering (B.E.) degree in Computer Science and Engineering (CSE) with a specialization in Internet of Things (IoT) and Cybersecurity.🤓</h3>
 <br>
 - 👀 I'm intereted in coding and learning new things.<br>
-- 📚 I'm currently learning about how to use github.<br>
 - 📩 Reach me at <a href="mailto:akashsingh.x09@gmail.com">akashsingh.x09@gmail.com</a><br>
 
 <h4>Connect with me:</h4>
